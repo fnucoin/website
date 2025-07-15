@@ -4,9 +4,13 @@
     font-family: "TikTok Sans";
     font-size: 36px;
     color: #0f0f0f;
+    background-color: #EFEFEF;
+    padding: 15px;
+    border-radius: 5px;
 }
 
 body {
     padding-top: 8em;
     text-align: center;
+    background-image: url(fnu.jpeg);
 }
