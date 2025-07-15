@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+
+#fnu-link {
+    font-family: "TikTok Sans";
+    font-size: 36px;
+    color: #0f0f0f;
+}
+
+body {
+    padding-top: 8em;
+    text-align: center;
+}
