@@ -13,4 +13,5 @@ body {
     padding-top: 8em;
     text-align: center;
     background-image: url(fnu.jpeg);
+    background-size: cover;
 }
